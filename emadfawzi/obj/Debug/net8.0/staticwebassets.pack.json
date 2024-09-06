@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\styles.cs",
+      "PackagePath": "staticwebassets\\styles.cs"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.emadfawzi.props",
+      "PackagePath": "build\\emadfawzi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.emadfawzi.props",
+      "PackagePath": "buildMultiTargeting\\emadfawzi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.emadfawzi.props",
+      "PackagePath": "buildTransitive\\emadfawzi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.emadfawzi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

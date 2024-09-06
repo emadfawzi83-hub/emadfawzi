@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "q5wSttNZ+UtPXWYKhSkol5JDqTOA4tTwNhSYEm5OweU=",
+  "Source": "emadfawzi",
+  "BasePath": "_content/emadfawzi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "emadfawzi\\wwwroot",
+      "Source": "emadfawzi",
+      "ContentRoot": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\",
+      "BasePath": "_content/emadfawzi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\index.html",
+      "SourceId": "emadfawzi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\",
+      "BasePath": "_content/emadfawzi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\script.js",
+      "SourceId": "emadfawzi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\",
+      "BasePath": "_content/emadfawzi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\styles.cs",
+      "SourceId": "emadfawzi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emad\\source\\repos\\emadfawzi\\emadfawzi\\wwwroot\\",
+      "BasePath": "_content/emadfawzi",
+      "RelativePath": "styles.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.cs"
+    }
+  ]
+}

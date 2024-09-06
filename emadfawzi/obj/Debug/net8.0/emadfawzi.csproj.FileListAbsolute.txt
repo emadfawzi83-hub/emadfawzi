@@ -24,3 +24,4 @@ C:\Users\emad\source\repos\emadfawzi\emadfawzi\obj\Debug\net8.0\refint\emadfawzi
 C:\Users\emad\source\repos\emadfawzi\emadfawzi\obj\Debug\net8.0\emadfawzi.pdb
 C:\Users\emad\source\repos\emadfawzi\emadfawzi\obj\Debug\net8.0\emadfawzi.genruntimeconfig.cache
 C:\Users\emad\source\repos\emadfawzi\emadfawzi\obj\Debug\net8.0\ref\emadfawzi.dll
+C:\Users\emad\source\repos\emadfawzi\emadfawzi\obj\Debug\net8.0\emadfawzi.sourcelink.json
